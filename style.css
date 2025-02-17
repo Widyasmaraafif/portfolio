@@ -452,7 +452,7 @@ span {
 .slider {
     width: 1300px;
     max-width: 100vw;
-    height: 700px;
+    height: 600px;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
